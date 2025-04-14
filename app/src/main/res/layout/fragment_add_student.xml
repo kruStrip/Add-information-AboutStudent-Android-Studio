@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".presentaition.ui.fragments.courses.AddCourseFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="180dp"
+        android:text="@string/text_add_student"
+        android:textSize="25sp"
+        android:layout_gravity="center"
+    />
+    <EditText
+        android:id="@+id/edit_name_student_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:inputType="text"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:hint="@string/type_student_name"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/edit_student_surname_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:hint="@string/type_student_surname"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        android:inputType="text"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/edit_student_phone_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:hint="@string/type_student_phone"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        android:inputType="text"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/edit_student_age_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:hint="@string/type_student_age"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        android:inputType="text"
+        android:text="" />
+
+
+    <Button
+        android:id="@+id/add_student_button_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:layout_marginTop="100dp"
+        android:textSize="20sp"
+        android:layout_marginStart="85dp"
+        android:layout_marginEnd="85dp"
+        android:text="@string/add_student_button"/>
+
+</LinearLayout>

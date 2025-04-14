@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="get_users">get users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_profile">Профиль</string>
+    <string name="press_me">Нажми меня</string>
+    <string name="my_registration">Регистрация</string>
+    <string name="type_phone_number">Введите ваш номер телефона: </string>
+    <string name="type_password">Введите пароль: </string>
+    <string name="type_username">Введите имя пользователя: </string>
+    <string name="type_age">Введите возраст: </string>
+    <string name="username_text">Пользователь:</string>
+    <string name="age_id">Возраст:</string>
+    <string name="_18">18</string>
+    <string name="profile_email">Мой почта</string>
+    <string name="profile_username">Имя пользователя</string>
+    <string name="type_intro">Краткое описание</string>
+    <string name="type_course">Название курса</string>
+    <string name="button_text_course">Посмотреть курсы</string>
+    <string name="type_course_name">Введите название курса:</string>
+    <string name="type_course_intro">Введите краткое описание:</string>
+    <string name="type_course_description">Введите подробное описание курса:</string>
+    <string name="add_course_button">Добавить курс</string>
+    <string name="profile_switch_adding_course_button">Перейти к добавлению своего курса</string>
+    <string name="profile_switch_adding_student_button">Перейти к добавлению студента</string>
+    <string name="profile_student_button">Посмотреть студентов</string>
+    <string name="student_name">Имя студента</string>
+    <string name="type_phone">Телефон</string>
+    <string name="add_student_button">Добавить студента</string>
+    <string name="type_student_phone">Введите номер телефона студента</string>
+    <string name="type_student_name">Введите имя студента</string>
+    <string name="type_student_surname">Введите фамилию</string>
+    <string name="type_student_age">Введите возраст студента</string>
+    <string name="text_add_student">Добавление студента</string>
+    <string name="more_inf_about_curs">Узнать подробную инцормацию</string>
+    <string name="about_course">Супер пупер курс</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="heading">Services In Android</string>
+    <string name="startButtonText">Start the Service</string>
+    <string name="stopButtonText">Stop the Service</string>
+    <string name="service_music">Сервис музыки</string>
+    <string name="student_phone_inf">Телефон студента: %s</string>
+    <string name="student_age_inf">Возраст: %d</string>
+    <string name="student_name_inf">Имя: %s</string>
+    <string name="student_surname_inf">Фамилия: %s</string>
+    <string name="student_inf">Информация о студенте</string>
+    <string name="student_id_inf">ID студента: %d</string>
+</resources>
